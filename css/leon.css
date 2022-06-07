@@ -119,6 +119,7 @@ body {
 
 .header .links {
 	position: relative;
+	cursor: pointer;
 }
 
 .header .links .icon {
